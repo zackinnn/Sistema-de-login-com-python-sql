@@ -6,7 +6,7 @@ import DataBaser
 
 
 
-#Criar Nossa Janela
+#Criar a Janela
 jan = Tk()
 jan.title("EasyBeach - Painel de acesso")
 jan.geometry("600x300")
